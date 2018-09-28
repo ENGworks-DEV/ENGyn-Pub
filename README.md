@@ -1,7 +1,8 @@
 # ENGyn-Pub
 
 This is just a placeholder for the future code comming soon!
-Meanwhile check our youtube channel
+
+Meanwhile check our youtube channel https://youtu.be/kbXNCO3oiAw
 
 ___
  ## ENGyn Alpha 2
