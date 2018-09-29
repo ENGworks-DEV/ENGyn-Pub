@@ -38,6 +38,7 @@ Solved bugs:
 * GUI: ENGyn runs nodes twice
 * GUI: Clashing looking for specific NewtonSoft dll
 * Navisworks: SetValueByCatParam Creates a new user tab every time it runs
+* GUI: Ctrl-C Ctrl-V works sporadically and most of the time with right control.
 
 Coming soon Features:
 
@@ -61,6 +62,5 @@ Known Bugs:
 * Appearance: SetAppearanceByProfile doesn't apply color to folders
 * Clash: CompactTest erase clashes when running on several test at the same time. Use CompartAllTests instead.
 * Clash: RefreshTest loses reference to ClashTest if is running several times. Use RefreshAllTests instead.
-* GUI: Ctrl-C Ctrl-V works sporadically and most of the time with right control.
 * GUI: with current color template, what node results are invisible (black text over black background)
 * GUI: Zoom/Pan still buggy (edited)
