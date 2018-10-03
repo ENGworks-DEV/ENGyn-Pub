@@ -1,4 +1,0 @@
-[submodule "ENGyn"]
-	path = ENGyn
-	url = https://github.com/ENGworks-DEV/ENGyn.git
-	branch = master
